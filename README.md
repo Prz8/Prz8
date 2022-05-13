@@ -1,4 +1,5 @@
-## Hi there! I'm Prajit - aka Prz8. Nice to meet you 👋
+## Hi there! I'm Prajit - aka Prz8.
+
 
 ### My Tech Toolbox 🧰 
 
