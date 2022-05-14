@@ -1,4 +1,6 @@
-## Hello there! I'm Prajit - aka Prz8.
+## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
+I'm Prajit - aka Prz8. 
 
 - 🔭 I’m currently working on **building my personal portfolio**
 - 🌱 I’m currently learning **Node.js** and **SpringBoot**
@@ -6,7 +8,7 @@
 - 💬 Ask me about **Python** and **JavaScript** 
 - 📫 How to reach me: **pandayp@protonmail.com**
 
-### My Tech Toolbox 🧰 
+### 🧰 My Tech Toolbox  
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
@@ -19,3 +21,5 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
+
+
