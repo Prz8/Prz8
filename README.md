@@ -1,5 +1,10 @@
-## Hi there! I'm Prajit - aka Prz8.
+## Hello there! I'm Prajit - aka Prz8.
 
+- 🔭 I’m currently working on **building my personal portfolio**
+- 🌱 I’m currently learning **Node.js** and **SpringBoot**
+- 🤔 I’m looking for help with **CI/CD**
+- 💬 Ask me about **Python** and **JavaScript** 
+- 📫 How to reach me: **pandayp@protonmail.com**
 
 ### My Tech Toolbox 🧰 
 
@@ -14,7 +19,3 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
- 
-
-* Primary coding language: Python
