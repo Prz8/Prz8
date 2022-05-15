@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I'm Prajit - aka Prz8. 
+I'm `Prajit` - aka `Prz8`
 
 - 🔭 I’m currently working on **building my personal portfolio**
 - 🌱 I’m currently learning **Node.js** and **SpringBoot**
