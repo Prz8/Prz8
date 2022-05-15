@@ -2,7 +2,7 @@
 
 I'm `Prajit` - aka `Prz8`
 
-- 🔭 I’m currently working on **building my personal portfolio**
+- 👨‍💻 I’m currently working on **building my personal portfolio**
 - 🌱 I’m currently learning **Node.js** and **SpringBoot**
 - 🤔 I’m looking for help with **CI/CD**
 - 💬 Ask me about **Python** and **JavaScript** 
@@ -23,10 +23,10 @@ I'm `Prajit` - aka `Prz8`
 </p>
 
 
+### ⚡ My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=prz8&count_private=true&theme=dark&showicons=true)]()
 
-
-
+### 🔍 Most Used Languages in my Repos
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prz8&langs_count=5&theme=dark)]()
 
 
