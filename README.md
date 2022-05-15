@@ -1,4 +1,4 @@
-## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 I'm `Prajit` - aka `Prz8`
 
@@ -21,5 +21,12 @@ I'm `Prajit` - aka `Prz8`
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=prz8&count_private=true&theme=dark&showicons=true)]()
+
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prz8&langs_count=5&theme=dark)]()
 
 
