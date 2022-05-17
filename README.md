@@ -29,13 +29,6 @@ I'm `Prajit` - aka `Prz8`
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-### ⚡ GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=prz8&count_private=true&theme=dark&showicons=true)]()
-
-### 🔍 Most Used Languages in my Repos
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prz8&langs_count=5&theme=dark)]()
-
 ### ⏱ Streak Stats
 
 [![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prz8)]()
