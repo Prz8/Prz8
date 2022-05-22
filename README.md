@@ -4,7 +4,7 @@ I'm `Prajit` - aka `Prz8`
 
 - 👨‍💻 I’m currently working on **building my personal portfolio**
 - 🌱 I’m currently learning **Node.js** and **SpringBoot**
-- 🤔 I’m looking for help with **CI/CD**
+- 🤔 I’m looking for help with **CI/CD** and **Security**
 - 💬 Ask me about anything 
 
 
