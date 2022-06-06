@@ -2,8 +2,7 @@
 
 I'm `Prajit` - aka `Prz8`
 
-- 🌱 I’m currently learning **SpringBoot**
-- 💬 Ask me about anything 
+- Currently learning **SpringBoot**
 
 
 ### 👨‍💻 Languages
