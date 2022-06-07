@@ -2,7 +2,10 @@
 
 I'm `Prajit` - aka `Prz8`
 
-- Currently learning **SpringBoot**
+Currently learning **SpringBoot**
+
+
+<img src="https://profile-counter.glitch.me/{prz8}/count.svg" alt="Visitor Count" /> 
 
 
 ### 👨‍💻 Languages
@@ -23,3 +26,4 @@ I'm `Prajit` - aka `Prz8`
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
