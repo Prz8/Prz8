@@ -32,7 +32,6 @@
     alt="Prajit Panday" 
     bg_color=#808080/></p>
 
-<td>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=prz8&show_icons=true&locale=en" alt="prajitpanday" /></td>
-
+![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prz8&theme=algolia&show_icons=true)
  
 
