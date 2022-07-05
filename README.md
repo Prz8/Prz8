@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajit</h1>
-<h3 align="center">Computer Engineering Student at University Of Oklahoma 🌟.</h3>
+<h3 align="center">Computer Engineering Student at the University Of Oklahoma 🌟.</h3>
 <br>
 
 - 🌱 I’m currently learning **SpringBoot** and **Kubernetes**.
