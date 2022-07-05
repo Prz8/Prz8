@@ -26,12 +26,23 @@
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 
 
+### 🤝🏻 Connect with Me
 
-### Visitor Count
+<a href="https://www.prajit.me"><img src="https://img.shields.io/badge/-Prajit.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/prz8"><img src="https://img.shields.io/badge/-Prz8-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:prajit@ou.edu"><img src="https://img.shields.io/badge/-prajit@ou.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
+### ⚙️ GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Prz8">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prz8&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prz8&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</a>
+</p>
+
+### 👽 Visitor Count
 <img src="https://profile-counter.glitch.me/{prz8}/count.svg" alt="Visitor Count" /> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prz8&&theme=chartreuse-dark&show_icons=true&layout=compact)](https://github.com/prz8/github-readme-stats)
-
-![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prz8&theme=chartreuse-dark&show_icons=true)
  
 
