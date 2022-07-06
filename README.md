@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Prajit</h1>
-<h3 align="center">Computer Engineering Student at the University Of Oklahoma 🌟.</h3>
+<h1 align="center">Hi 👋, I'm Prajit™</h1>
+<h3 align="center">🎓 Computer Engineering Student at the University Of Oklahoma 🌟.</h3>
 <br>
 
-- 🌱 I’m currently learning **SpringBoot** and **Kubernetes**.
+
+- 🌱 I’m currently learning more about AI and Cloud Architecture along with tools like **SpringBoot** , **Kubernetes** and **Terraform** .
+- 💡 I like to explore new technologies and enjoy solving meaningful and innovative real-world problems.
+- 💬 Feel free to reach out to me for any reason whatsoever such as feedback and suggestions.
+- ✉️ You can shoot me an email at prajit@ou.edu! I'll try to respond as soon as I can.
 
 
 ### 👨‍💻 Languages
@@ -36,8 +40,8 @@
 ### ⚙️ GitHub Analytics
 
 
-<a href="https://github.com/Prz8"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prz8&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prz8&layout=compact&langs_count=8&theme=chartreuse-dark"/></a>
+<a href="https://github.com/Prz8"><img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prz8&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prz8&layout=compact&langs_count=8&theme=chartreuse-dark"/></a>
 
 
 ### 👽 Visitor Count
