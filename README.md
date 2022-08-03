@@ -31,7 +31,7 @@
 
 <a href="https://www.prajit.me"><img src="https://img.shields.io/badge/-Prajit.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/prz8"><img src="https://img.shields.io/badge/-Prz8-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ppanda2@wgu.edu"><img src="https://img.shields.io/badge/-prajit@ou.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ppanda2@wgu.edu"><img src="https://img.shields.io/badge/-ppanda2@wgu.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 ### ⚙️ GitHub Analytics
