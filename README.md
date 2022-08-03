@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prajit™</h1>
-<h3 align="center">🎓 Computer Engineering Student at the University Of Oklahoma 🌟.</h3>
+<h3 align="center">🎓 Computer Science Student at Western Governors University 🌟.</h3>
 <br>
 
 
 - 🌱 I’m currently learning more about AI and Cloud Architecture along with tools like **SpringBoot** , **Kubernetes** and **Terraform** .
 - 💡 I like to explore new technologies and enjoy solving meaningful and innovative real-world problems.
-- 💬 Feel free to reach out to me for any reason whatsoever such as feedback and suggestions.
-- ✉️ You can shoot me an email at prajit@ou.edu! I'll try to respond as soon as I can.
-
 
 ### 👨‍💻 Languages
 
@@ -34,7 +31,7 @@
 
 <a href="https://www.prajit.me"><img src="https://img.shields.io/badge/-Prajit.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/prz8"><img src="https://img.shields.io/badge/-Prz8-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:prajit@ou.edu"><img src="https://img.shields.io/badge/-prajit@ou.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ppanda2@wgu.edu"><img src="https://img.shields.io/badge/-prajit@ou.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 ### ⚙️ GitHub Analytics
