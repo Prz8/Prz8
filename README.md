@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prajit™</h1>
-<h3 align="center">🎓 Computer Science Student at Western Governors University 🌟.</h3>
-<br>
 
 
-- 🌱 I’m currently learning more about AI and Cloud Architecture along with tools like **SpringBoot** , **Kubernetes** and **Terraform** .
+
+- 🌱 I’m currently learning more about AI and Cloud Architecture along with tools like **Docker** , **Kubernetes** and **Terraform** .
 - 💡 I like to explore new technologies and enjoy solving meaningful and innovative real-world problems.
 
 ### 👨‍💻 Languages
