@@ -23,11 +23,6 @@
 <code><img height="20" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></code>
 
 
-### 🤝🏻 Connect with Me
-
-<a href="https://linkedin.com/in/prz8"><img src="https://img.shields.io/badge/-Prz8-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-
 ### ⚙️ GitHub Analytics
 
 
